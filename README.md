@@ -1,1 +1,1 @@
-# RL-in-Robotics---Cartpole-Balance
+# RL-in-Robotics-Actor-Critic learning control of Cartpole balance
